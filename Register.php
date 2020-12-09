@@ -6,8 +6,8 @@
   </head>
   <form action="action_page.php">
     <div class="container">
-      <h1>Medewerker registeren</h1>
-      <p>haal je medewerkerscode na het registeren bij Tom holen</p>
+      <h1>Registeren voor Klant</h1>
+      <p>Flowerpower login</p>
       <hr>
 
       <label for="email"><b>Email</b></label>
@@ -36,7 +36,7 @@
     </div>
 
     <div class="container signin">
-      <p>Already have an account? <a href="login.php">Sign in</a>.</p>
+      <p>heeft u al een account?? <a href="login.php">log in</a>.</p>
     </div>
   </form>
 </html>
