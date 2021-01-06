@@ -7,8 +7,8 @@
 </head>
 <body>
 	<form id='login' action='login.php' method='post' accept-charset='UTF-8'>
-		<fieldset >
-			<p> Login als Klant / medewerker </p>
+		<fieldset>
+			<p> Login Klant / medewerker terminal </p>
 			<legend>inloggen</legend>
 			<input type="text" name="uname" placeholder="Username" required/>
 			<input type="password" name="pword" placeholder="Password" required/>
@@ -16,11 +16,10 @@
 			<p>
 				geen account? <a href="register.php">registeren</a>
 			</p>
+			<!-- <p> geen account medewerker? <a href="medewerkerreg.php"> Medewerker registeren! </a>
+			</p> -->
 			<p>
 				wachtwoord resetten? <a href="reset.php">Resetten</a>
-			</p>
-			<p>
- 			medwerker? <a href="medewerkerlog.php">medewerker Registeren</a>
 			</p>
 		</fieldset>
 	</form>
