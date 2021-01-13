@@ -9,7 +9,6 @@
   <head>
     <meta charset="utf-8">
     <title> Overzicht artikelen </title>
-    <h1> overzicht artikelen </h1>
   </head>
   <style>
   table, th, tr, td{
