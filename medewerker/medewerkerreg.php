@@ -40,3 +40,7 @@
     </div>
   </form>
 </html>
+
+
+<!-- Overzicht artikelen (opent overzicht_artikelen.php)
+Overzicht medewerker (opent overzicht_medewerker.php) -->
